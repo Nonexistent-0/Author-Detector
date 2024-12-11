@@ -1,0 +1,26 @@
+Location data firm helps police find out when suspects visited their doctor
+Leaked form shows how Fog Data helps cops find where suspects have been and when.
+A location-tracking company that sells its services to police departments is apparently using addresses and coordinates of doctors' and lawyers' offices and other types of locations to help cops compile lists of places visited by suspects, according to a 404 Media report published today.
+
+Fog Data Science, which says it "harness[es] the power of data to safeguard national security and provide law enforcement with actionable intelligence," has a "Project Intake Form" that asks police for locations where potential suspects and their mobile devices might be found. The form, obtained by 404 Media, instructs police officers to list locations of friends' and families' houses, associates' homes and offices, and the offices of a person's doctor or lawyer.
+
+Fog Data has a trove of location data derived from smartphones' geolocation signals, which would already include doctors' offices and many other types of locations even before police ask for information on a specific person. Details provided by police on the intake form seem likely to help Fog Data conduct more effective searches of its database to find out when suspects visited particular places. The form also asks police to identify the person of interest's name and/or known aliases and their "link to criminal activity."
+
+"Known locations a POI [Person of Interest] may visit are valuable, even without dates/times," the form says. It asks for street addresses or geographic coordinates.
+We sent a message to Fog Data Science today asking how it uses locations of doctors' offices and other information collected on the form. We will update this article if it provides a response.
+
+A 2022 investigation by the Electronic Frontier Foundation provided insight into Fog Data Science and its Fog Reveal service. As the EFF wrote:
+“We only have data for the past three years”
+The Fog Data intake form obtained by 404 Media asks police for details that "help us eliminate devices more efficiently." It asks police to list "Exploitable Presence/Posted Locations on Social Media" and "Distinguishing Characteristics (general age, gender, ethnicity, religion)." It asks for the person of interest's home and work locations and provides additional space for any other locations the person might visit.
+
+"We only have data for the past three years from today's date," the form says. "Any link of the POI to a location at a date and/or time helps us. It can be a gym, house of worship, lunch spot, coffee house, sports arena. Known routines are particularly useful in this area. Lat/Long locations are helpful if you have them, but we work with addresses as well."
+
+The intake form "was included in an email thread between a Fog representative and Bryan Kimbell, chief human trafficking investigator at the Office of the Attorney General in Georgia," according to 404 Media.
+
+Services like Fog Data Science have triggered concerns about how police might use location tracking to prosecute abortions. "For several thousand dollars annually, the software lets police trace unique borders around large, customized regions to generate a list of devices in the area. Police can use Fog Reveal to geofence entire buildings or street blocks—like the area surrounding an abortion clinic—and get information on devices used within and surrounding those buildings to identify suspects," Ars wrote in November 2022.
+
+The EFF's 2022 investigation found that Fog obtained data from the firm Venntel, which is the subject of a Federal Trade Commission action. The FTC last week announced a proposed settlement with Venntel and its owner, Gravy Analytics. The FTC alleged that "Gravy Analytics and Venntel violated the FTC Act by unfairly selling sensitive consumer location data, and by collecting and using consumers' location data without obtaining verifiable user consent for commercial and government uses."
+
+"Surreptitious surveillance by data brokers undermines our civil liberties and puts servicemembers, union workers, religious minorities, and others at risk," Samuel Levine, director of the FTC Bureau of Consumer Protection, said in the announcement. According to the FTC, Gravy Analytics used geofencing "to identify and sell lists of consumers who attended certain events related to medical conditions and places of worship and sold additional lists that associate individual consumers to other sensitive characteristics."
+
+If the proposed order takes effect, "Gravy Analytics and Venntel will be prohibited from selling, disclosing, or using sensitive location data in any product or service, and must establish a sensitive data location program," the FTC said. One of the FTC's two Republicans partially dissented from the decision, which may not be finalized until after President-elect Trump takes office.
