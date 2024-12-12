@@ -1,0 +1,21 @@
+One of the selling points of the Raspberry Pi 5 (released in October 2023) is that it was fast enough and had enough memory to be a credible general-purpose desktop PC, if not an especially fast one. For Pi-as-desktop enthusiasts, the company has a couple of new pre-holiday announcements. The biggest is the Raspberry Pi 500, which fits the components of an 8GB Pi 5 into a small keyboard-shaped case for $90.
+
+It's a follow-up to the original Raspberry Pi 400, and like that system, it takes the components from the regular Pi 5 board and puts them on a different PCB with all of the ports positioned in a single row across the back of the device. It includes one USB 2.0 port, two USB 3.0 ports, a microSD slot, two micro HDMI ports, the 40-pin GPIO header, and a gigabit Ethernet port.
+
+In addition to the standalone $90 system, the Pi 500 will also be sold as part of a Desktop Kit with a mouse, power supply, HDMI cable, and printed Beginner's Guide booklet for $120.
+
+
+From the front, the Pi 500 just looks like a somewhat chunky desktop keyboard.Raspberry Pi
+
+
+ The Pi 500 has most of the same ports as the Pi 5.Raspberry Pi
+ But the PCB, partially visible here, has been redesigned so all the ports are lined up in a single row across the back.Raspberry Pi
+If there's a major downside to the Pi 500 as a desktop PC, it's that there isn't an easy way to add an M.2 slot for faster storage since existing M.2 HATs for the regular Pi 5 can't be connected to a Pi 500. Pi enthusiast and YouTuber Jeff Geerling's teardown of the device reveals that there's space on the Pi 500 board that seems to be specifically set aside for an M.2 slot and NVMe SSDs, but the slot isn't populated, and simply soldering one down isn't enough to enable M.2 support. It may come in a later and/or more expensive version of the Pi 500. Out of the box, you'll be limited to microSD media or storage connected to one of the USB ports.
+
+The other addition to the Pi lineup is an official Raspberry Pi Monitor, a $100 15.6-inch 1080p IPS screen with built-in speakers and a white-and-red color scheme that compliments the Pi 500 and the official Pi 5 enclosure. The monitor has a foldable kickstand but also includes VESA mounting holes if you want to give it a more permanent stand.
+
+
+In many ways, the Raspberry Pi monitor is a run-of-the-mill portable monitor. But its color scheme goes with the official Pi enclosures. Credit: Raspberry Pi
+The monitor is powered via USB-C but needs a separate HDMI input for video—it doesn't look like it's capable of doing power and video over a single cable, though this isn't something the Pi supports anyway. If you power the monitor via one of the Pi's USB ports, the brightness is limited to 60 percent of maximum and speaker volume is limited to 50 percent. A dedicated USB-C power supply is required to enable full brightness and volume.
+
+The Pi 400 isn't going away. Raspberry Pi CEO Eben Upton says the older Pi PC is getting a small price drop, from $70 to $60. A kit with a mouse, power supply, HDMI cable, SD card, and printed manual is being dropped from $100 to $80. For the extra performance, RAM, and other capabilities you get from the Pi 5, the Pi 500 is probably worth paying a little extra for. But as an ultra-budget option for projects that don't need the extra power, the price drop is a nice touch.

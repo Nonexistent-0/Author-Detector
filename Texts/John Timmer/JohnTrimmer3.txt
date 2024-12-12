@@ -1,0 +1,27 @@
+2023 was always going to be a hot year, given that warmer El Niño conditions were superimposed on the long-term trend of climate change driven by our greenhouse gas emissions. But it's not clear anybody was expecting the striking string of hot months that allowed the year to easily eclipse any previous year on record. As the warmth has continued at record levels even after the El Niño faded, it's an event that seems to demand an explanation.
+
+On Thursday, a group of German scientists—Helge Goessling, Thomas Rackow, and Thomas Jung—released a paper that attempts to provide one. They present data that suggests the Earth is absorbing more incoming sunlight than it has in the past, largely due to reduced cloud cover.
+
+Balancing the numbers on radiation
+Years with strong El Niño conditions tend to break records. But the 2023 El Niño was relatively mild. The effects of the phenomenon are also directly felt in the tropical Pacific, yet ocean temperatures set records in the Atlantic and contributed to a massive retreat in ice near Antarctica. So, there are clearly limits to what can be attributed to El Niño. Other influences that have been considered include the injection of water vapor into the stratosphere by the Hunga Tonga eruption, and a reduction in sulfur emissions due to new rules governing international shipping. 2023 also corresponds to a peak in the most recent solar cycle.
+
+But it is estimated that all three factors combined add up to, at most, 0.1 Kelvin of warming on top of the El Niño, which leaves an estimated 0.2 Kelvin of additional warming unaccounted for. The authors trace the difference back to an energy imbalance measured at the top of the atmosphere.
+
+The concept of an atmospheric energy imbalance is pretty straightforward: We can measure both the amount of energy the Earth receives from the Sun and how much energy it radiates back into space. Any difference between the two results in a net energy imbalance that's either absorbed by or extracted from the ocean/atmosphere system. And we've been tracking it via satellite for a while now as rising greenhouse gas levels have gradually increased the imbalance.
+
+But greenhouse gases aren't the only thing having an effect. For example, the imbalance has also increased in the Arctic due to the loss of snow cover and retreat of sea ice. The dark ground and ocean absorb more solar energy compared to the white material that had previously been exposed to the sunlight. Not all of this is felt directly, however, as a lot of the areas where it's happening are frequently covered by clouds.
+
+Nevertheless, the loss of snow and ice has caused the Earth's reflectivity, termed its albedo, to decline since the 1970s, enhancing the warming a bit.
+
+Vanishing clouds
+The new paper finds that the energy imbalance set a new high in 2023, with a record amount of energy being absorbed by the ocean/atmosphere system. This wasn't accompanied by a drop in infrared emissions from the Earth, suggesting it wasn't due to greenhouse gases, which trap heat by absorbing this radiation. Instead, it seems to be due to decreased reflection of incoming sunlight by the Earth.
+
+While there was a general trend in that direction, the planet set a new record low for albedo in 2023. Using two different data sets, the teams identify the areas most effected by this, and they're not at the poles, indicating loss of snow and ice are unlikely to be the cause. Instead, the key contributor appears to be the loss of low-level clouds. "The cloud-related albedo reduction is apparently largely due to a pronounced decline of low-level clouds over the northern mid-latitude and tropical oceans, in particular the Atlantic," the researchers say.
+
+The drop in low-level clouds had been averaging about 1.3 percent per decade. 2023 saw a slightly larger drop occur in just one year. The researchers calculate that this could account for all of the discrepancy between the unusually hot 2023 conditions and the known factors that could have influenced global temperatures.
+
+So, what could be causing the clouds to go away? The researchers list three potential factors. One is simply the variability of the climate system, meaning 2023 might have just been an extremely unusual year, and things will revert to trends in the ensuing years. The second is the impact of aerosols, which both we and natural processes emit in copious quantities. These can help seed clouds, so a reduction of aerosols (driven by things like pollution control measures) could potentially account for this effect.
+
+The most concerning potential explanation, however, is that there may be a feedback relationship between rising temperatures and low-level clouds. Meaning that, as the Earth warms, the clouds become sparse, enhancing the warming further. That would be bad news for our future climate, because it suggests that the lower range of warming estimates would have to be adjusted upward to account for it.
+
+"If the cloud-related albedo decline was caused not solely by internal variability, the 2023 extra heat may be here to stay and Earth’s climate sensitivity may be closer to the upper range of current estimates," Goessling, Rackow, and Jung conclude. And that adds a bit of urgency to the need to understand why 2023 and 2024 have been so exceptionally warm.

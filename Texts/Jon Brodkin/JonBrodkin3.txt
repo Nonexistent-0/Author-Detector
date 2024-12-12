@@ -1,0 +1,45 @@
+Cable companies and Trump’s FCC chair agree: Data caps are good for you
+Data caps reflect "highly competitive environment," cable lobby tells FCC.
+
+Jon Brodkin – Nov 19, 2024 1:35 PM |  260
+Illustration of network data represented by curving lines flowing on a dark background.
+Credit: Getty Images | Yuichiro Chino
+
+The Federal Communications Commission's plan to investigate and potentially regulate data caps is all but dead now, after President-elect Donald Trump's announcement that he will promote Commissioner Brendan Carr to the chairmanship role.
+
+The FCC last month voted 3–2 to open a formal inquiry into how broadband data caps affect consumers and whether the commission has authority to regulate how Internet service providers impose such caps. The proceeding is continuing for now, as the FCC comment and reply comment deadlines are November 14 and December 2. You can view the docket here.
+
+Broadband industry lobby groups knew they would face no possibility of data-cap regulation once Trump won the election. But they submitted their comments late last week, making the case that data caps are good for customers and that the FCC has no authority to regulate them—the same arguments that Carr made when he dissented from the vote to open an inquiry.
+
+NCTA—The Internet & Television Association, representing cable firms including Comcast and Charter, told the FCC that what ISPs call "usage-based pricing" expands options for consumers and promotes competition and network investment. NCTA claimed that the offering of plans with data caps "reflects the highly competitive environment as providers seek to distinguish their offers from their competitors'."
+
+Cable firms: Usage-based pricing does no harm
+Data caps enable "innovative plans at lower monthly rates," the lobby group said. The NCTA also wrote:
+
+Usage-based pricing is a widely accepted pricing model used not only for communications services, but also for the sale of many other categories of goods and services. Such consumption-based pricing equitably and efficiently ensures that consumers who use goods or services the most pay more than those that do not. Indeed, in the communications context, the notion that requiring very heavy users of a service to pay more than light users has long been determined to be a reasonable pricing structure. It would be economically unsound to prohibit broadband providers from engaging in usage-based pricing in the absence of any harm caused by such practices.
+
+Carr and fellow FCC Republican Nathan Simington made similar arguments when they dissented from last month's vote to open an inquiry. Carr blasted what he called "the Biden-Harris Administration's inexorable march towards rate regulation," and said that "prohibiting customers from choosing to purchase plans with data caps—which are more affordable than unlimited ones—necessarily regulates the service rates they are paying for."
+
+Many Internet users filed comments asking the FCC to ban data caps. A coalition of consumer advocacy groups filed comments saying that "data caps are another profit-driving tool for ISPs at the expense of consumers and the public interest."
+
+"Data caps have a negative impact on all consumers but the effects are felt most acutely in low-income households," stated comments filed by Public Knowledge, the Open Technology Institute at New America, the Benton Institute for Broadband & Society, and the National Consumer Law Center.
+
+Consumer groups: Caps don’t manage congestion
+The consumer groups said the COVID-19 pandemic "made it more apparent how data caps are artificially imposed restrictions that negatively impact consumers, discriminate against the use of certain high-data services, and are not necessary to address network congestion, which is generally not present on home broadband networks."
+
+"Unlike speed tiers, data caps do not effectively manage network congestion or peak usage times, because they do not influence real-time network load," the groups also said. "Instead, they enable further price discrimination by pushing consumers toward more expensive plans with higher or unlimited data allowances. They are price discrimination dressed up as network management."
+
+Jessica Rosenworcel, who has been FCC chairwoman since 2021, argued last month that consumer complaints show the FCC inquiry is necessary. "The mental toll of constantly thinking about how much you use a service that is essential for modern life is real as is the frustration of so many consumers who tell us they believe these caps are costly and unfair," Rosenworcel said.
+
+ISPs lifting caps during the pandemic "suggest[s] that our networks have the capacity to meet consumer demand without these restrictions," she said, adding that "some providers do not have them at all" and "others lifted them in network merger conditions."
+
+ISPs: Pandemic doesn’t show caps are unnecessary
+The NCTA tried to counter Rosenworcel's claim that the widespread lifting of data caps during the early part of the COVID-19 pandemic shows that the caps aren't necessary.
+
+"Because of the extraordinary circumstances of the pandemic and with so many people working and learning from home, broadband traffic during the pandemic surged between 30 percent and 50 percent across mobile and fixed networks," the NCTA wrote. "Recognizing this national emergency, cable and other providers paused data plans and took many other steps to ensure Americans stayed connected to the Internet."
+
+The NCTA argued that the temporary lifting of caps "does not change the fundamental economics of usage-based pricing... Providers were able to suspend usage-based pricing temporarily during the pandemic, recognizing that this was an extraordinary circumstance and that eventually schools and workplaces would reopen."
+
+The FCC also received opposition from USTelecom, wireless lobby group CTIA, and America's Communications Association (formerly the American Cable Association). USTelecom claimed that banning data caps would force ISPs to raise prices.
+
+"Requiring all users to pay for unlimited data would raise prices for consumers who use little data," USTelecom wrote. "This difference in price could be the deciding factor in whether an individual can, or wants to, subscribe to broadband. Moreover, requiring flat pricing plans with unlimited data would effectively require those who use less data to subsidize those that use more."

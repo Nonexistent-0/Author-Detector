@@ -1,0 +1,13 @@
+Apple has announced that it will be releasing the iOS 18.2, iPadOS 18.2, and macOS Sequoia 15.2 updates to the public later this afternoon, following weeks of beta testing for developers and users. As with iOS 18.1, the headlining features are new additions to Apple Intelligence, mainly the image-generation capabilities: Image Playground for general images, and "Genmoji" for making custom images in the style of Apple's built-in Unicode-based emoji characters.
+
+Other AI features include "Image Wand," which will take sketched images from the Notes app and turn them into a "polished image" using context clues from other notes; and ChatGPT integration for the Writing Tools feature.
+
+The updates also include a long list of bug fixes and security updates, for those who don't care about Apple Intelligence. Safari gets better data importing and exporting support, an HTTPS Priority feature that "upgrades URLs to HTTPS whenever possible," and a download status indicator for iPhones with a Dynamic Island. Mail in iOS offers to automatically sort messages to bring important ones to the top of your inbox. There are also various tweaks and improvements for the Photos, Podcasts, Voice Memos, and Stocks apps, while the Weather app in macOS can optionally display the weather in your menu bar.
+
+The Image Playground, Genmoji, and ChatGPT features mostly round out the first wave of Apple Intelligence features announced at WWDC over the summer. None of these AI-powered updates were available in the initial iOS 18 or macOS 15 upgrades, but a handful (including notification summaries) were enabled in 18.1/15.1.
+
+There are still a few Apple Intelligence updates slated for "the months to come." These include Siri improvements that will allow it "to draw on a user’s personal context to deliver intelligence that’s tailored to them," plus additional third-party integrations and the ability to make context-aware suggestions based on the current contents of your screen (something Google has been playing with in Android for many years). Priority Notifications and a "sketch" style for Image Playgrounds are also coming in a later update.
+
+As for Apple's plans beyond that, the company is allegedly working on a more conversational Siri powered by a large language model, but reports suggest Apple won't be ready to talk about it until sometime next year.
+
+All Apple Intelligence features require relatively recent iPhones, iPads, and Macs. For the iPad and Mac, you need a model with an M-series Apple Silicon processor. Apple Intelligence will only work on last year's iPhone 15 Pro or one of this year's iPhone 16 or iPhone 16 Pro models.
