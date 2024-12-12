@@ -1,0 +1,17 @@
+On Friday, the US Department of Agriculture (USDA) announced that it would begin a nationwide testing program for the presence of the H5N1 flu virus, also known as the bird flu. Testing will focus on pre-pasteurized milk at dairy processing facilities (pasteurization inactivates the virus), but the order that's launching the program will require anybody involved with milk production before then to provide samples to the USDA on request. That includes "any entity responsible for a dairy farm, bulk milk transporter, bulk milk transfer station, or dairy processing facility."
+
+The ultimate goal is to identify individual herds where the virus is circulating and use the agency's existing powers to do contact tracing and restrict the movement of cattle, with the ultimate goal of eliminating the virus from US herds.
+
+A bovine disease vector
+At the time of publication, the CDC had identified 58 cases of humans infected by the H5N1 flu virus, over half of them in California. All but two have come about due to contact with agriculture, either cattle (35 cases) or poultry (21). The virus's genetic material has appeared in the milk supply and, although pasteurization should eliminate any intact infectious virus, raw milk is notable for not undergoing pasteurization, which has led to at least one recall when the virus made its way into raw milk. And we know the virus can spread to other species if they drink milk from infected cows.
+
+So far, the human H5N1 cases have generally been mild. But the worry is that prolonged circulation in other mammals may allow the virus to evolve in ways that will put humans at greater risk of infections or enable the infection to cause more severe symptoms.
+
+So, the ultimate goal of the USDA is to eliminate cattle as a reservoir. When the Agency announced it was planning for this program, it noted that there were two candidate vaccines in trials. Until those are validated, it plans to use the standard playbook for handling emerging infections: contact tracing and isolation. And it has the ability to compel cattle and their owners to be more cooperative than the human population turned out to be.
+
+The five-step plan
+The USDA refers to isolation and contact tracing as Stage 3 of a five-stage plan for controlling H5N1 in cattle, with the two earlier stages being the mandatory sampling and testing, meant to be handled on a state-by-state basis. Following the successful containment of the virus in a state, the USDA will move on to batch sampling to ensure each state remains virus-free. This is essential, given that we don't have a clear picture of how many times the virus has jumped from its normal reservoir in birds into the cattle population.
+
+That makes it possible that reaching Stage 5, which the USDA terms "Demonstrating Freedom from H5 in US Dairy Cattle," will turn out to be impossible. Dairy cattle are likely to have daily contact with birds, and it may be that the virus will be regularly re-introduced into the population, leaving containment as the only option until the vaccines are ready.
+
+Testing will initially focus primarily on states where cattle-to-human transmission is known to have occurred or the virus is known to be present: California, Colorado, Michigan, Mississippi, Oregon, and Pennsylvania. If you wish to track the progress of the USDA's efforts, it will be posting weekly updates.
