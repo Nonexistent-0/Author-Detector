@@ -1,0 +1,27 @@
+What if AI doesn’t just keep getting better forever?
+New reports highlight fears of diminishing returns for traditional LLM training.
+
+Kyle Orland – Nov 12, 2024 3:34 PM |  189
+
+Are we getting close to as good as it gets for "digital brains"? Credit: Getty Images
+
+For years now, many AI industry watchers have looked at the quickly growing capabilities of new AI models and mused about exponential performance increases continuing well into the future. Recently, though, some of that AI "scaling law" optimism has been replaced by fears that we may already be hitting a plateau in the capabilities of large language models trained with standard methods.
+
+A weekend report from The Information effectively summarized how these fears are manifesting amid a number of insiders at OpenAI. Unnamed OpenAI researchers told The Information that Orion, the company's codename for its next full-fledged model release, is showing a smaller performance jump than the one seen between GPT-3 and GPT-4 in recent years. On certain tasks, in fact, the upcoming model "isn't reliably better than its predecessor," according to unnamed OpenAI researchers cited in the piece.
+
+On Monday, OpenAI co-founder Ilya Sutskever, who left the company earlier this year, added to the concerns that LLMs were hitting a plateau in what can be gained from traditional pre-training. Sutskever told Reuters that "the 2010s were the age of scaling," where throwing additional computing resources and training data at the same basic training methods could lead to impressive improvements in subsequent models.
+
+"Now we're back in the age of wonder and discovery once again," Sutskever told Reuters. "Everyone is looking for the next thing. Scaling the right thing matters more now than ever."
+
+What’s next?
+A large part of the training problem, according to experts and insiders cited in these and other pieces, is a lack of new, quality textual data for new LLMs to train on. At this point, model makers may have already picked the lowest hanging fruit from the vast troves of text available on the public Internet and published books.
+
+Research outfit Epoch AI tried to quantify this problem in a paper earlier this year, measuring the rate of increase in LLM training data sets against the "estimated stock of human-generated public text." After analyzing those trends, the researchers estimate that "language models will fully utilize this stock [of human-generated public text] between 2026 and 2032," leaving precious little runway for just throwing more training data at the problem.
+
+
+Epoch AI research suggests LLM makers could completely run out of public, textual training data in the next few years. Credit: Epoch AI
+OpenAI and other companies have already begun pivoting to training on synthetic data (created by other models) in an attempt to push past this quickly approaching training wall. But there is significant debate over whether this kind of artificial data can lead to a contextual "model collapse" after a few cycles of recursive training.
+
+Others are pinning their hopes on future AI models scaling based on improvements in reasoning capabilities rather than new training knowledge. But recent research shows current "state of the art" reasoning models getting easily fooled by red herrings. Other researchers are also looking into whether a knowledge distillation process can help large "teacher" networks train "student" networks with a more refined set of quality information.
+
+But if current LLM training methods are starting to plateau, the next big breakthrough might come via specialization. Microsoft, for one, has already shown some success with so-called small language models that focus on specific types of tasks and problems. Unlike the generalist LLMs we're used to today, we could see near-future AIs focusing on narrower and narrower specializations, much like PhD students forging newer, more esoteric paths for human knowledge.

@@ -1,0 +1,40 @@
+AT&T praises itself after getting caught taking too much money from FCC program
+AT&T obtained subsidies for duplicate users and non-users, will pay $2.3 million.
+
+Jon Brodkin – Oct 30, 2024 2:20 PM |  50
+A person with gloved hands taking money out of a briefcase
+Credit: Getty Images | Tetra Images
+
+AT&T improperly obtained money from a government-run broadband discount program by submitting duplicate requests and by claiming subsidies for thousands of subscribers who weren't using AT&T's service. AT&T obtained funding based on false certifications it made under penalty of perjury.
+
+AT&T on Friday agreed to pay $2.3 million in a consent decree with the Federal Communications Commission's Enforcement Bureau. That includes a civil penalty of $1,921,068 and a repayment of $378,922 to the US Treasury.
+
+The settlement fully resolves the FCC investigation into AT&T's apparent violations, the consent decree said. "AT&T admits for the purpose of this Consent Decree and for Commission civil enforcement purposes" that the findings described by the FCC "contain a true and accurate description of the facts underlying the Investigation," the document said.
+
+In addition to the civil penalty and repayment, AT&T agreed to a compliance plan designed to prevent further violations. AT&T last week reported quarterly revenue of $30.2 billion.
+
+AT&T made the excessive reimbursement claims to the Emergency Broadband Benefit Program (EBB), which the US formed in response to the COVID-19 pandemic, and to the EBB's successor program, the Affordable Connectivity Program (ACP). The FCC said its rules "are vital to protecting these Programs and their resources from waste, fraud, and abuse."
+
+AT&T praises itself for using federal program
+We contacted AT&T today and asked for an explanation of what caused the violations. Instead, AT&T provided Ars with a statement that praised itself for participating in the federal discount programs.
+
+"When the federal government acted during the COVID-19 pandemic to stand up the Emergency Broadband Benefit program, and then the Affordable Connectivity Program, we quickly implemented both programs to provide more low-cost Internet options for our customers. We take compliance with federal programs like these seriously and appreciate the collaboration with the FCC to reach a solution on this matter," AT&T said.
+
+The EBB provided monthly subsidies of $50 for eligible households, while the ACP offered $30 a month. Telecoms provided the discounts to subscribers directly and sought reimbursement from the programs. The ACP ended a few months ago after Congress did not provide additional funding.
+
+AT&T obtained reimbursement for invalid subscribers in multiple ways. The FCC described the duplicate requests as follows:
+
+First, from at least May 2021 through December 2023, AT&T sought and received EBB or ACP funding for subscribers that were improperly enrolled in the programs. The Company enrolled 3,912 subscribers with incorrect and/or invalid identifying information by repeatedly using the same non-subscriber benefit qualifying persons (BQP) to enroll multiple subscribers. Despite these improper duplicate BQPs, AT&T certified in its reimbursement requests to the FCC and USAC that it was in compliance with the Commission's rules. These certifications were made under penalty of perjury and resulted in AT&T receiving funding from EBB and ACP.
+
+The consent decree said in a footnote that a non-subscriber BQP "is someone in the applicant's household other than the applicant, often times a dependent child."
+
+AT&T got payments for inactive users
+AT&T separately violated ACP rules in late 2023 by obtaining reimbursement for nearly 3,300 people who weren't using broadband service, the FCC said:
+
+[S]ervice providers that do not assess and collect a monthly fee after applying the ACP benefit may only receive reimbursement for offering the ACP benefit when the subscriber has used the service at least once every 30 days, or has cured their non-usage during a subsequent 15-day cure period. In October and November 2023, AT&T claimed reimbursement for 3,289 ACP subscribers despite those subscribers having more than 45 consecutive days of non-usage of the service. Despite these subscribers having no usage, AT&T certified in its reimbursement requests to the FCC and USAC that it was in compliance with the Commission's rules; based on these certifications made under penalty of perjury, AT&T received funding from ACP.
+
+The consent decree describes one more type of violation apparently committed by AT&T in-store sales representatives from at least May 2021 through November 2023. At least 220 subscribers signed up by 21 sales reps were enrolled with "incorrect and/or invalid BQP and customer email address information."
+
+The EBB and ACP rules required enrollment representatives to obtain unique Representative Accountability Database identification (RAD ID) numbers before submitting information to the government systems for enrolling eligible customers. But the 21 AT&T sales reps failed to do that.
+
+"Despite the RAD ID requirement, AT&T certified in its reimbursement requests to the FCC and USAC that it was in compliance with the Commission's rules; based on these certifications made under penalty of perjury, AT&T received funding from EBB and ACP," the consent decree said.
