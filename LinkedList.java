@@ -1,12 +1,10 @@
 public class LinkedList {
     
     private Node head;
-    private Node rear;
     private int size;
     
     public LinkedList() {
         head = null;
-        rear = null;
         size = 0;
     }
     
@@ -21,12 +19,22 @@ public class LinkedList {
     public void add(String val) {
         if (isEmpty()) {
             head = new Node(val);
-            rear = head;
+            size++;
         } else {
-            rear.setNext(new Node(val));
-            rear = rear.getNext();
+            Node temp = head;
+            while (true) {
+                if (temp.getVal().equals(val)) {
+                    temp.increment();
+                    break;
+                } else if (temp.getNext() == null) {
+                    temp.setNext(new Node(val));
+                    size++;
+                    break;
+                } else {
+                    temp = temp.getNext();
+                }
+            }
         }
-        size++;
     }
     
     public String get(int pos) {

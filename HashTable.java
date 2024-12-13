@@ -9,11 +9,14 @@ public class HashTable {
     }
 
     private int hash(String str) {
-        int sum = 0;
+        int hash = 0;
+        final int prime = 31;  
+        
         for (int i = 0; i < str.length(); i++) {
-            sum += (int) str.charAt(i);
+            hash = prime * hash + str.charAt(i);
         }
-        return (sum % values.length);
+        
+        return Math.abs(hash % values.length); 
     }
 
     public void put(String str) {
