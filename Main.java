@@ -10,27 +10,10 @@ public class Main{
 "Texts/John Brodkin/JohnBrodkin1.txt", "Texts/John Brodkin/JohnBrodkin2.txt", "Texts/John Brodkin/JohnBrodkin3.txt", "Texts/John Brodkin/JohnBrodkin4.txt", "Texts/John Brodkin/JohnBrodkin5.txt",
 "Texts/Kyle Orland/KyleOrland1.txt", "Texts/Kyle Orland/KyleOrland2.txt", "Texts/Kyle Orland/KyleOrland3.txt", "Texts/Kyle Orland/KyleOrland4.txt", "Texts/Kyle Orland/KyleOrland5.txt"};
     public static void main(String[] args) {
-      HashTable singleWordsAC = new HashTable();
-      HashTable singleWordsJO = new HashTable();
-      HashTable singleWordsJT = new HashTable();
-      HashTable singleWordsJB = new HashTable();
-      HashTable singleWordsKO = new HashTable();
 
-      HashTable doubleWordsAC= new HashTable();
-      HashTable doubleWordsJO = new HashTable();
-      HashTable doubleWordsJT = new HashTable();
-      HashTable doubleWordsJB = new HashTable();
-      HashTable doubleWordsKO = new HashTable();
-
-      HashTable threeWordsAC = new HashTable();
-      HashTable threeWordsJO = new HashTable();
-      HashTable threeWordsJT = new HashTable();
-      HashTable threeWordsJB = new HashTable();
-      HashTable threeWordsKO = new HashTable();
-
-      HashTable[][] hashTables = {{singleWordsAC, singleWordsJB, singleWordsJO, singleWordsJT, singleWordsKO}, 
-      {doubleWordsAC, doubleWordsJB, doubleWordsJO, doubleWordsJT, doubleWordsKO}, 
-      {threeWordsAC, threeWordsJB, threeWordsJO, threeWordsJT, threeWordsKO}};
+      HashTable[][] hashTables = {{new HashTable(), new HashTable(), new HashTable(), new HashTable(), new HashTable()}, 
+                                  {new HashTable(), new HashTable(), new HashTable(), new HashTable(), new HashTable()}, 
+                                  {new HashTable(), new HashTable(), new HashTable(), new HashTable(), new HashTable()}};
 
       for(int i = 0; i < hashTables.length; i++){
          for(int j = 0; j < hashTables[0].length; j++){
