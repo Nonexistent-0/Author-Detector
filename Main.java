@@ -70,7 +70,21 @@ public class Main {
 
         }
 
-        
+        HashTable[] importedHashTables = {new HashTable(), new HashTable(), new HashTable(), new HashTable()};
+        BufferedReader br = new BufferedReader(new FileReader(files[i]));
+            String text;
 
+            while((text = br.readLine()) != null) {
+                String[] splitText = text.replaceAll("[^a-zA-Z ]", "").toLowerCase().split("\\s+");
+                importedHashTables[0].put(splitText[j]);
+
+                importedHashTables[1].put(splitText[j] + " " + splitText[j + 1]);
+                            
+                timportedHashTables[2].put(splitText[j] + " " + splitText[j + 1] + " " + splitText[j + 2]);
+                            
+                String punctuationString = text.replaceAll("[\\w\\s]", "");
+
+                importedHashTables[3].put(punctuationString.substring(j, j+1));
+            }
     }
 }
