@@ -16,20 +16,21 @@ public class LinkedList {
         return size;
     }
     
-    public void add(String val) {
+    public boolean add(String val) {
         if (isEmpty()) {
             head = new Node(val);
             size++;
+            return true;
         } else {
             Node temp = head;
             while (true) {
                 if (temp.getVal().equals(val)) {
                     temp.increment();
-                    break;
+                    return false;
                 } else if (temp.getNext() == null) {
                     temp.setNext(new Node(val));
                     size++;
-                    break;
+                    return true;
                 } else {
                     temp = temp.getNext();
                 }

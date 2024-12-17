@@ -26,8 +26,9 @@ public class HashTable {
             grow();
         }
         
-        load++;
-        values[index].add(str);
+        if (values[index].add(str)) {
+            load++;
+        }
 
     }
 
