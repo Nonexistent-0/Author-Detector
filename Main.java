@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.File;
-import java.util.ArrayList;
 
 public class Main {
 
@@ -53,7 +52,7 @@ public class Main {
 
         }
 
-        ArrayList[] importedArrayLists = {new ArrayList<String>(), new ArrayList<String>(), new ArrayList<String>(), new ArrayList<String>()};
+        LinkedList[] importedArrayLists = {new LinkedList(), new LinkedList(), new LinkedList(), new LinkedList()};
         BufferedReader br = new BufferedReader(new FileReader("importedText.txt"));
         String text;
 
@@ -79,7 +78,7 @@ public class Main {
             }
         }
 
-        oneWordHashTables[0].printInOrder(); 
+        
         
     }
 }
