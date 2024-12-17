@@ -72,19 +72,28 @@ public class Main {
 
         HashTable[] importedHashTables = {new HashTable(), new HashTable(), new HashTable(), new HashTable()};
         BufferedReader br = new BufferedReader(new FileReader(files[i]));
-            String text;
+        String text;
 
-            while((text = br.readLine()) != null) {
-                String[] splitText = text.replaceAll("[^a-zA-Z ]", "").toLowerCase().split("\\s+");
+        while((text = br.readLine()) != null) {
+            String[] splitText = text.replaceAll("[^a-zA-Z ]", "").toLowerCase().split("\\s+");
+
+            for (int j = 0; j < splitText.length; j++) {
                 importedHashTables[0].put(splitText[j]);
+            }
 
+            for (int j = 0; j < splitText.length - 1; j++) {
                 importedHashTables[1].put(splitText[j] + " " + splitText[j + 1]);
-                            
-                timportedHashTables[2].put(splitText[j] + " " + splitText[j + 1] + " " + splitText[j + 2]);
-                            
-                String punctuationString = text.replaceAll("[\\w\\s]", "");
+            }
+                
+            for (int j = 0; j < splitText.length - 2; j++) {
+                importedHashTables[2].put(splitText[j] + " " + splitText[j + 1] + " " + splitText[j + 2]);
+            }
 
+            String punctuationString = text.replaceAll("[\\w\\s]", "");
+
+            for (int j = 0; j < punctuationString.length(); j++) {
                 importedHashTables[3].put(punctuationString.substring(j, j+1));
             }
+        }
     }
 }
