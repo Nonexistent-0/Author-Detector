@@ -77,8 +77,68 @@ public class Main {
                 importedArrayLists[3].add(punctuationString.substring(j, j+1));
             }
         }
+        //mirroring expected ouput :)
+
+        String[] authors = {"Jon Brodkin", "Andrew Cunningham", "Kyle Orland", "Jennifer Ouellette", "John Timmer"};
+        double[] vocabScores = new double[5];
+        double[] doubleWordScores = new double[5];
+        double[] threeWordScores = new double[5];
+        double[] customScores = new double[5];
+        double[] compositeScores = new double[5];
 
         
+        for (int i = 0; i < 5; i++) {
+            vocabScores[i] = computeSimilarity(oneWordHashTables[i], importedArrayLists[0]);
+            doubleWordScores[i] = computeSimilarity(twoWordHashTables[i], importedArrayLists[1]);
+            threeWordScores[i] = computeSimilarity(threeWordHashTables[i], importedArrayLists[2]);
+            customScores[i] = computeSimilarity(punctuationHashTables[i], importedArrayLists[3]);
+            compositeScores[i] = (vocabScores[i] + doubleWordScores[i] + threeWordScores[i] + customScores[i]) / 4;
+        }
+
         
+        double maxScore = -1;
+        int bestMatch = -1;
+
+        System.out.println("Mystery Text 1\n");
+        for (int i = 0; i < 5; i++) {
+
+            System.out.println(authors[i]);
+            System.out.println(trunckate(vocabScores[i] * 100) + "% Words_1");
+            System.out.println(trunckate(doubleWordScores[i] * 100) + "% Phrases_2");
+            System.out.println(trunckate(threeWordScores[i] * 100) + "% Phrases_3");
+            System.out.println(trunckate(customScores[i] * 100) + "% CustomCriteria");
+            System.out.println(trunckate(compositeScores[i]) + " total composite score.");
+            System.out.println();
+
+            if (compositeScores[i] > maxScore) {
+                maxScore = compositeScores[i];
+                bestMatch = i;
+            }
+        }
+        System.out.println(authors[bestMatch] + " is the closest match.");
+        if(trunckate(maxScore * 100) >= 25){
+            System.out.println(trunckate(maxScore * 100) + " confidence.");
+        } else {
+            System.out.println("Not a high enough confidence, so it could be another author!");
+        }
+    }
+
+    public static double computeSimilarity(HashTable authorHashTable, LinkedList importedList) {
+        int hits = 0;
+
+        for (int i = 0; i < importedList.size(); i++) {
+            if (authorHashTable.contains(importedList.get(i))) {
+                hits++;
+            }
+        }
+
+        return (double) hits / importedList.size();
+    }
+
+    public static double trunckate(double num){
+        int decimalPlaces = 3;
+        double multiplier = Math.pow(10, decimalPlaces);
+        double truncatedValue = Math.floor(num * multiplier) / multiplier;
+        return truncatedValue;
     }
 }

@@ -37,30 +37,9 @@ We haven't done extensive re-testing of most older GPUs—the GeForce and Radeon
 
 As with the Arc A-series cards, Intel emphatically recommends that resizable BAR be enabled for your motherboard to get optimal performance. This is sometimes called Smart Access Memory or SAM, depending on your board; most AMD AM4 and 8th-gen Intel Core systems should support it after a BIOS update, and newer PCs should mostly have it on by default. Our test system had it enabled for the B580 and for all the other GPUs we tested.
 
-Performance and power
-
-
-
-
-
-
-
-
-
-
-
-
-
 As a competitor to the RTX 4060, the Arc B580 is actually pretty appealing, whether you're talking about 1080p or 1440p, in games with ray-tracing on or off. Even older DirectX 11 titles in our suite, like Grand Theft Auto V and Assassin's Creed Odyssey, don't seem to take the same performance hit as they did on older Arc cards.
 
 Intel is essentially making a slightly stronger version of the argument that AMD has been trying to make with the RX 7600. AMD's cards always come with the caveat of significantly worse performance in games with heavy ray-tracing effects, but the performance hit for Intel cards in ray-traced games looks a lot more like Nvidia's than AMD's. Playable ray-traced 1080p is well within reach for the Intel card, and in both Cyberpunk 2077 and Returnal, its performance came closer to the 8GB 4060 Ti's.
-
-
-
-
-
-
-
 The 12GB of RAM is also enough to put more space between the B580 and the 8GB versions of the 4060 and 7600. Forza Horizon 5 performs significantly better at 1440p on cards with more memory, like the B580 and the 16GB RX 7600 XT, and it's a safe bet that the 8GB limit will become more of a factor for high-end games at higher resolutions as the years go on.
 
 We experienced just one performance anomaly in our testing. Forza Horizon 5 actually runs a bit worse with XeSS enabled, with a smooth average frame rate but frequent stutters that make it less playable overall (though it's worth noting that Forza Horizon 5 never benefits much from upscaling algorithms on any GPUs we've tested, for whatever reason). Intel also alerted us to a possible issue with Cyberpunk 2077 when enabling ray-tracing but recommended a workaround that involved pressing F1 to reset the game's settings; the benchmark ran fine on our testbed.
